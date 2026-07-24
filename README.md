@@ -1,0 +1,1 @@
+The zip file includes all the opencode skills, some of them are integrated into the skill "motor-acceptance-test", others are not but they are done by me for other functions, U can take a try to use them.
